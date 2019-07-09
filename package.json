@@ -1,0 +1,12 @@
+{
+  "name": "@obsidianjs/mouse-manager",
+  "version": "2.0.0",
+  "description": "Manage advanced mouse events on HTMLElements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabien LOISON adapted by Timotee NEULLAS",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {}
+}
